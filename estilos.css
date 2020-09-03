@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url(fondo.jpg);
+    background-size: 100% 100%;
+}
+
+.overlay {
+    background: rgba(89, 151, 207, .7);
+    height: 85vh;
+}
+
+.navbar {
+    box-shadow: 1px 1px 3px #000;
+}
